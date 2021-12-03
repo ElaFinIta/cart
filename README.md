@@ -11,7 +11,7 @@ Product page component with a shopping cart that is updated by adding purchases 
 - CSS
 
 ## Screenshots:
-![screenshot](Screenshot.png?raw=true "Screenshot of cart app with hooks")
+![screenshot](screenshot.png?raw=true "Screenshot of cart app with hooks")
 
 ### Credits:
 
