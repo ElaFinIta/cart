@@ -1,5 +1,6 @@
-import logo from './fav.svg';
+import logo from './ice-cream-solid.svg';
 import './App.css';
+import Product from './Product';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>
+      <Product /> 
     </div>
   );
 }
